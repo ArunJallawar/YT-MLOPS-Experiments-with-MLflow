@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/137442503405749028/abec83c4ff944cb599ba75a1710b499e/artifacts
+end_time: 1771756780901
+entry_point_name: ''
+experiment_id: '137442503405749028'
+lifecycle_stage: active
+run_id: abec83c4ff944cb599ba75a1710b499e
+run_name: blushing-colt-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771756780699
+status: 3
+tags: []
+user_id: arunjallawar

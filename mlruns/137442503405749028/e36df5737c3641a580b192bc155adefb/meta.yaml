@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/137442503405749028/e36df5737c3641a580b192bc155adefb/artifacts
+end_time: 1771757837024
+entry_point_name: ''
+experiment_id: '137442503405749028'
+lifecycle_stage: active
+run_id: e36df5737c3641a580b192bc155adefb
+run_name: bold-sponge-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771757833694
+status: 3
+tags: []
+user_id: arunjallawar

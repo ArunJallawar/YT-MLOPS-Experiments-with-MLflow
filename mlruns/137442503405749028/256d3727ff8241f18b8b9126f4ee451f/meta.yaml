@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/137442503405749028/256d3727ff8241f18b8b9126f4ee451f/artifacts
+end_time: 1771765387336
+entry_point_name: ''
+experiment_id: '137442503405749028'
+lifecycle_stage: active
+run_id: 256d3727ff8241f18b8b9126f4ee451f
+run_name: nervous-auk-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771765385078
+status: 3
+tags: []
+user_id: arunjallawar

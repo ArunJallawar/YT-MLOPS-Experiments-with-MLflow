@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8146f422c6e49f9903d552cf153a61b/artifacts
+end_time: 1771754490779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8146f422c6e49f9903d552cf153a61b
+run_name: thoughtful-whale-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771754490767
+status: 3
+tags: []
+user_id: arunjallawar
